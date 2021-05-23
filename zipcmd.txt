@@ -1,0 +1,6 @@
+
+
+"C:\Program Files (x86)\GnuWin32\bin\zip.exe" "C:\Users\b\Documents\Visual Studio 2008\Projects\edwz.zip" "C:\Users\b\Documents\Visual Studio 2008\Projects\edw\*"
+
+
+C:\Program Files (x86)\ImageMagick-6.8.4-Q16;C:\Program Files\ImageMagick-6.8.4-Q16;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\GnuWin32\bin\
